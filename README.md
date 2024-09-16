@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ellabeck03
 - 👀 I’m interested in nuclear physics
-- 🌱 I’m currently learning how to use neutron transport simulations
+- 🌱 I’m currently learning how to use neutron transport codes
 - 📫 How to reach me: https://www.linkedin.com/in/ella-beck-a8164023b/
 - 😄 Pronouns: she/her
 
