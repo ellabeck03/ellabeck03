@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ellabeck03
 - 👀 I’m interested in nuclear physics
-- 🌱 I’m currently learning computational methods for solving nuclear many-body problems
+- 🌱 I’m currently learning computational methods for solving nuclear few-body problems
 - 📫 How to reach me: https://www.linkedin.com/in/ella-beck-a8164023b/
 - 😄 Pronouns: she/her
 
